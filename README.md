@@ -1,4 +1,4 @@
-# SlotMachineUVScrolling
+# Experiment-SlotMachineUVScrolling
 
 **Demo Video On Youtube**
 [Click Here To Play](https://youtu.be/wJ09UjS4Htw)
