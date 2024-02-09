@@ -1,7 +1,5 @@
 # SlotMachineUVScrolling
 
-Slot Machine spin animation by using Unity Shader Graph.
-
 **Demo Video On Youtube**
 [Click Here To Play](https://youtu.be/wJ09UjS4Htw)
 
