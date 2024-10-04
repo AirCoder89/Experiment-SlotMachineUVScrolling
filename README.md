@@ -15,4 +15,4 @@ This setup is great for anyone looking to explore graphical effects or enhance t
 
 ---
 
-🛠️ Boost your Unity workflows with InspectMe! Our tool simplifies debugging with an intuitive tree view. Check it out! 👉 https://assetstore.unity.com/packages/tools/utilities/inspectme-lite-advanced-debugging-code-clarity-283366
+🛠️ Boost your Unity workflows with InspectMe! Our tool simplifies debugging with an intuitive tree view. Check it out! 👉 [InspectMe Lite](https://assetstore.unity.com/packages/tools/utilities/inspectme-lite-advanced-debugging-code-clarity-283366) - [InspectMe Pro](https://assetstore.unity.com/packages/tools/utilities/inspectme-pro-advanced-debugging-code-clarity-256329)
