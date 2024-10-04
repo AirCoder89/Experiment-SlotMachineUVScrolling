@@ -1,9 +1,10 @@
-# Experiment-SlotMachineUVScrolling
+# Slot Machine Prototype with Customizable UV Scrolling
 
+Check out my latest slot machine prototype! I've used Unity's Shader Graph to create a UV scrolling effect that simulates the reels spinning. You can customize everything from the spin speed to the visual patterns through exposed shader parameters in my script.
 **Demo Video On Youtube**
 [Click Here To Play](https://youtu.be/wJ09UjS4Htw)
 
-
+This setup is great for anyone looking to explore graphical effects or enhance their game projects with some cool visual tweaks. Dive in, play around with the settings, and see how you can make the slot machine fit your style!
 **Screenshots**
 ![game](https://user-images.githubusercontent.com/62396712/82701228-0a390280-9c70-11ea-8457-9310e94007b6.PNG)
 ![spin](https://user-images.githubusercontent.com/62396712/82701239-0dcc8980-9c70-11ea-94a5-07b22b7ead73.jpg)
