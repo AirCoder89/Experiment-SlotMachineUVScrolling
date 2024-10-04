@@ -12,3 +12,7 @@ This setup is great for anyone looking to explore graphical effects or enhance t
 ![shader](https://user-images.githubusercontent.com/62396712/82701323-44a29f80-9c70-11ea-8545-49a64dae6314.PNG)
 ![slotmachineCs](https://user-images.githubusercontent.com/62396712/82701335-49675380-9c70-11ea-8e99-fe344d5345bc.PNG)
 ![slotMachineCs_2](https://user-images.githubusercontent.com/62396712/82701338-4b311700-9c70-11ea-8737-e46790acb654.PNG)
+
+---
+
+🛠️ Boost your Unity workflows with InspectMe! Our tool simplifies debugging with an intuitive tree view. Check it out! 👉 https://assetstore.unity.com/packages/tools/utilities/inspectme-lite-advanced-debugging-code-clarity-283366
