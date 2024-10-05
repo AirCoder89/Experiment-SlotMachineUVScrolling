@@ -1,5 +1,18 @@
 # Slot Machine Prototype with Customizable UV Scrolling
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/628d98c6-0224-48a2-b3e3-321b5f48e681" alt="InspectMe Logo" width="100"></td>
+    <td>
+      🛠️ Boost your Unity workflows with <a href="https://divinitycodes.de/">InspectMe</a>! Our tool simplifies debugging with an intuitive tree view. Check it out! 👉 
+      <a href="https://assetstore.unity.com/packages/tools/utilities/inspectme-lite-advanced-debugging-code-clarity-283366">InspectMe Lite</a> - 
+      <a href="https://assetstore.unity.com/packages/tools/utilities/inspectme-pro-advanced-debugging-code-clarity-256329">InspectMe Pro</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 Check out my latest slot machine prototype! I've used Unity's Shader Graph to create a UV scrolling effect that simulates the reels spinning. You can customize everything from the spin speed to the visual patterns through exposed shader parameters in my script.
 **Demo Video On Youtube**
 [Click Here To Play](https://youtu.be/wJ09UjS4Htw)
@@ -15,4 +28,13 @@ This setup is great for anyone looking to explore graphical effects or enhance t
 
 ---
 
-🛠️ Boost your Unity workflows with [InspectMe](https://divinitycodes.de/)! Our tool simplifies debugging with an intuitive tree view. Check it out! 👉 [InspectMe Lite](https://assetstore.unity.com/packages/tools/utilities/inspectme-lite-advanced-debugging-code-clarity-283366) - [InspectMe Pro](https://assetstore.unity.com/packages/tools/utilities/inspectme-pro-advanced-debugging-code-clarity-256329)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/628d98c6-0224-48a2-b3e3-321b5f48e681" alt="InspectMe Logo" width="100"></td>
+    <td>
+      🛠️ Boost your Unity workflows with <a href="https://divinitycodes.de/">InspectMe</a>! Our tool simplifies debugging with an intuitive tree view. Check it out! 👉 
+      <a href="https://assetstore.unity.com/packages/tools/utilities/inspectme-lite-advanced-debugging-code-clarity-283366">InspectMe Lite</a> - 
+      <a href="https://assetstore.unity.com/packages/tools/utilities/inspectme-pro-advanced-debugging-code-clarity-256329">InspectMe Pro</a>
+    </td>
+  </tr>
+</table>
